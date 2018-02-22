@@ -1,0 +1,2 @@
+continuar
+3.5. Coleção vazia, o que retornar?

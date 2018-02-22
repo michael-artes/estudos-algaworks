@@ -1,0 +1,2 @@
+ALTER TABLE public.categoria
+  ADD CONSTRAINT "PK_CATEGORIA" PRIMARY KEY (codigo);
